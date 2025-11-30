@@ -43,4 +43,4 @@ function abcd2(a, b, c) {
 abcd2.call(obj2);
 
 let fnc = abcd2.bind(obj, 1, 2, 3);
-fnc()
+fnc();
